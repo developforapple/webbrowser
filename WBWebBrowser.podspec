@@ -3,7 +3,7 @@ s.name             = "WBWebBrowser"
 s.version          = "1.0.0"
 s.summary          = "A web browser used on iOS."
 s.description      = <<-DESC
-A web browser A web browser A web browser A web browser A web browser
+A web browser use WKWebView on iOS8 and later, use UIWebView on iOS7.
 DESC
 s.homepage         = "https://github.com/developforapple/webbrowser"
 s.license          = 'MIT'
